@@ -16,5 +16,7 @@ namespace TestGitSln
         {
             InitializeComponent();
         }
+
+        public class change { }
     }
 }
