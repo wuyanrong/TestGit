@@ -18,5 +18,7 @@ namespace TestGitSln
         }
 
         public class change { }
+
+        public class test { }
     }
 }
