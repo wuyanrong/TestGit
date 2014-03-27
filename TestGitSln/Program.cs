@@ -19,8 +19,12 @@ namespace TestGitSln
             Application.Run(new Form1());
         }
 
-        public class ddd { }
+        public class ddd 
+        {   
+            }
 
-        public class persion { }
+        public class persion 
+        { 
+            }
     }
 }
