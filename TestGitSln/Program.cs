@@ -18,5 +18,9 @@ namespace TestGitSln
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        public class ddd { }
+
+        public class persion { }
     }
 }
